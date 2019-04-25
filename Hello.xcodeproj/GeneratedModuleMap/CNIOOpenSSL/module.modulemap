@@ -1,4 +1,4 @@
 module CNIOOpenSSL {
-    umbrella "/Users/JeffWolski/dev/CharmedPearls/PCHello/Hello/.build/checkouts/swift-nio-ssl/Sources/CNIOOpenSSL/include"
+    umbrella "/Users/JeffWolski/dev/CharmedPearls/PCHello/.build/checkouts/swift-nio-ssl/Sources/CNIOOpenSSL/include"
     export *
 }
